@@ -2,7 +2,12 @@
 texto
 # Purchate and other information.
 
+
 # Wideband lambda sensor Bosch LSU4.9 :
 
-#  IC L9780 ST microelectronics:
+
+
+# Pictures and videos
+
+# IC L9780 ST microelectronics:
 
